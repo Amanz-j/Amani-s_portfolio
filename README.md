@@ -1,2 +1,3 @@
-# Amani-s_portfolio
-Analytics portfolio
+#Amani's_Portfolio
+
+#Excel - VLOOKUP, INDEX, MATCH, COUNTIF
