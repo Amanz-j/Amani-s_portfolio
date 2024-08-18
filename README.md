@@ -1,3 +1,3 @@
-#Amani's_Portfolio
+# Amani's_Portfolio
 
-#Excel - VLOOKUP, INDEX, MATCH, COUNTIF
+# Projects done in data analytics courses
