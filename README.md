@@ -1,3 +1,3 @@
 # Amani's_Portfolio
 
-# Projects done in data analytics courses
+Projects done during data analytics courses
